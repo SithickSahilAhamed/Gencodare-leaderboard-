@@ -1,0 +1,13 @@
+{
+  "name": "hackathon-leaderboard-firebase",
+  "private": true,
+  "version": "2.0.0",
+  "scripts": {
+    "install:all": "npm install --prefix client",
+    "dev": "npm run dev --prefix client",
+    "build": "npm run build --prefix client"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
